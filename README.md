@@ -1,8 +1,7 @@
 **<i>Hi Everyone!👋 I'm Lohith.</i>**
-===========================
-
+<hr>
 <h4>Tech Enthusiast</h4>
----------------------------
+<hr>
 
 I'm currently a third-year B.E student majoring in Computer Science and Engineering. My passion lies in problem-solving and full-stack development.
 
@@ -75,4 +74,4 @@ Thanks! :heart:
 
 Contributions are welcomed! <3
 
-Made with :heart: by Lohith.
+Made with 🤍 by Lohith.
