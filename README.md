@@ -1,4 +1,4 @@
-**<i>Hi Everyone!👋 I'm Lohith.</i>**
+**<h1><i>Hi Everyone!👋 I'm Lohith.</i></h1>**
 <hr>
 <h4>Tech Enthusiast</h4>
 <hr>
