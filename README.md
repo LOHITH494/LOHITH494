@@ -62,7 +62,6 @@ I'm currently a third-year B.E student majoring in Computer Science and Engineer
 
 <a href="http://www.github.com/LOHITH494"><img src="https://github-readme-stats.vercel.app/api?username=LOHITH494&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="LOHITH494's GitHub stats" /></a>
 
-<a href="https://github.com/LOHITH494" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHITH494&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### My LeetCode
 
