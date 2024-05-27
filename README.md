@@ -62,15 +62,15 @@ I'm currently a third-year B.E student majoring in Computer Science and Engineer
 
 <a href="http://www.github.com/LOHITH494"><img src="https://github-readme-stats.vercel.app/api?username=LOHITH494&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="LOHITH494's GitHub stats" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOHITH494&theme=gotham)](https://github.com/LOHITH494/github-readme-stats)
 
 ### My LeetCode
 
 ![](https://leetcard.jacoblin.cool/lohithmr494)
 
-Thanks! :heart:
-
 ---
 
-Contributions are welcomed! <3
+![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
 Made with 🤍 by Lohith.
+
