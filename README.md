@@ -1,8 +1,8 @@
-**<h1><i>Hi Everyone!👋 I'm Lohith.</i></h1>**
+**<h1 align="center"><i>Hi Everyone!👋 I'm Lohith.</i></h1>**
 <hr>
-<h4>Tech Enthusiast</h4>
+<h4 align="center">Tech Enthusiast</h4>
 <hr>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LOHITH494&label=Profile%20views&color=0e75b6&style=flat" alt="LOHITH494" /> </p>
 I'm currently a third-year B.E student majoring in Computer Science and Engineering. My passion lies in problem-solving and full-stack development.
 
 * 🌍 Based in Tiruppur,Tamil Nadu.
