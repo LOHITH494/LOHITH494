@@ -1,68 +1,34 @@
-**<h1 align="center"><i>Hi Everyone!👋 I'm Lohith.</i></h1>**
-<hr>
-<h4 align="center">Tech Enthusiast</h4>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LOHITH494&label=Profile%20views&color=0e75b6&style=flat" alt="LOHITH494" /> </p>
-<center>Software Engineer Trainee at Cognizant</center><br>
+<!-- Title Section -->
+<h3>👋 Welcome to my GitHub!</h3>
 
-* 🌍 Based in Coimbatore,Tamil Nadu.
-* ✉️ You can reach me at [lohithmr494@gmail.com](mailto:lohithmr494@gmail.com)
+- 💼 **Software Engineer Trainee** at [Cognizant Technology Solutions](https://www.cognizant.com/in/en).
+- 🌱 **Learning**: Java, SpringBoot, SQL, System Design, OOP and DSA.
+- ⚡ **Fun Fact**: My learning goes deep, so my fixes hit the core.
+- 📰 View my **[Resume](https://drive.google.com/file/d/1v79KIrQAJfN_E3PPM93Mkxt36OnHE6La/view?usp=drive_link)**.
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;
+<!-- Skills section -->
+<h4>I code with</h4>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-
-### Socials
-
-<p align="left"> 
-  <a href="https://www.github.com/LOHITH494" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lohith-m-r-926698231" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/lohith494" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-</p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LOHITH494"><img src="https://github-readme-stats.vercel.app/api?username=LOHITH494&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="LOHITH494's GitHub stats" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOHITH494&theme=gotham)](https://github.com/LOHITH494/github-readme-stats)
-
-### My LeetCode
-
-![](https://leetcard.jacoblin.cool/lohithmr494)
+<!-- Social Section -->
+<h4>Social Accounts</h4>
+<div> 
+    <a href="https://leetcode.com/lohithmr494/" target="_blank">
+        <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
+    </a>
+    <a href="mailto:lohithmr494@gmail.com"> 
+        <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/lohithmr494/" target="_blank">
+        <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    </a>
+</div>
 
 ---
-
-![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
-
-Made with 🤍 by Lohith.
-
+I'm glad you're here! Feel free to explore, collaborate, and connect! Let's build something awesome together! 🚀 :trophy:
