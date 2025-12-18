@@ -3,9 +3,9 @@
 <h4 align="center">Tech Enthusiast</h4>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LOHITH494&label=Profile%20views&color=0e75b6&style=flat" alt="LOHITH494" /> </p>
-Software Engineer Trainee at Cognizant
+<center>Software Engineer Trainee at Cognizant</center><br>
 
-* 🌍 Based in Tiruppur,Tamil Nadu.
+* 🌍 Based in Coimbatore,Tamil Nadu.
 * ✉️ You can reach me at [lohithmr494@gmail.com](mailto:lohithmr494@gmail.com)
 
 ### Skills
